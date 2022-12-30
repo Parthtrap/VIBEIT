@@ -10,6 +10,7 @@ function Player() {
 	function onTabChange(newTab) {
 		setDisplayTab(newTab);
 	}
+	
 
 	return (
 		<div>
